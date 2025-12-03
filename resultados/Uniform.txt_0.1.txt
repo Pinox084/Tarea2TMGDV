@@ -1,0 +1,20 @@
+
+=====================================================
+ ANALISIS EXPERIMENTAL DEL SKETCH MRL
+ Archivo: Uniform.txt
+ n = 5000000
+ epsilon = 0.1
+=====================================================
+
+--- Rank ---
+Consultas realizadas: 10000
+Exitos: 10000
+Fallos: 0
+Tasa de fallo = 0%
+
+--- Cuantiles ---
+phi=0.25   real=250148   estimado=225392
+phi=0.5   real=499897   estimado=473144
+phi=0.75   real=749904   estimado=726744
+
+Listo.

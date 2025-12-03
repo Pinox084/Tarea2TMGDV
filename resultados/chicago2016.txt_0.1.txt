@@ -1,0 +1,20 @@
+
+=====================================================
+ ANALISIS EXPERIMENTAL DEL SKETCH MRL
+ Archivo: chicago2016.txt
+ n = 31166491
+ epsilon = 0.1
+=====================================================
+
+--- Rank ---
+Consultas realizadas: 10000
+Exitos: 5503
+Fallos: 4497
+Tasa de fallo = 44.97%
+
+--- Cuantiles ---
+phi=0.25   real=204   estimado=124
+phi=0.5   real=1458   estimado=1444
+phi=0.75   real=1504   estimado=1496
+
+Listo.
